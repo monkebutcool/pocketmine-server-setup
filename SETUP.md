@@ -12,11 +12,17 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [Insallation](#arrow_down-installation) 
+- [Getting Started](#heavy_check_mark-getting-started)
 
 
-## :star2: About the Project
 
-## :toolbox: Getting Started
+## :heavy_check_mark: Getting Started
+First go to "[server.proporties](https://github.com/monkebutcool/pocketmine-server-setup/server.proporties)" and change these things if you want. 
+
+```php
+echo Hellı
+```
+
 
 ### :arrow_down: Installation
 
