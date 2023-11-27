@@ -11,14 +11,14 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [Insallation](#📩-installation)
+- [Insallation](#down_arrow-installation)
 
 
 ## :star2: About the Project
 
 ## :toolbox: Getting Started
 
-### 📩 Installation
+### :arrow_down: Installation
 
 Clone
 ```bash
