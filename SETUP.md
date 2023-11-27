@@ -11,7 +11,7 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [Insallation](#down_arrow-installation)
+- [Insallation](#arrow_down-installation) 
 
 
 ## :star2: About the Project
