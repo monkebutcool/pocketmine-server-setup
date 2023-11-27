@@ -4,20 +4,12 @@
                      <strong><p>Pocketmine Server Setup</p></strong>
 <p>This is a basic setup for the beginners to create their first pocketmine server.</p>
 
-<h4> <span> · </span> <a href="https://github.com/monkebutcool/Pocketmine Server Setup/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/monkebutcool/Pocketmine Server Setup/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/monkebutcool/Pocketmine Server Setup/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/monkebutcool/Pocketmine-Server-Setup/blob/master/README.md"> Documentation </a> <span> · </span>
 
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
-
-- [Insallation](#📩-installation)
-  
-- [Getting Started](#✔️-getting-started)
-
-
-
-## ✔️ Getting Started
+# ✔️ Getting Started
 First go to "[server.proporties](https://github.com/monkebutcool/pocketmine-server-setup/server.proporties)" and change these things if you want. 
 
 ```php
@@ -36,9 +28,13 @@ difficulty=2
 ```
 
 
-# 📩 Installation
+## 📩 Installation
 
-Clone
+### Clone
+
 ```bash
 gh repo clone monkebutcool/pocketmine-server-setup
+```
+```git
+https://github.com/monkebutcool/pocketmine-server-setup
 ```
