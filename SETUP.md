@@ -35,6 +35,11 @@ difficulty=2
 ```bash
 gh repo clone monkebutcool/pocketmine-server-setup
 ```
+
+### If you're using a software like: Repl.it or Glitch put this URL ↓↓↓
+
 ```git
 https://github.com/monkebutcool/pocketmine-server-setup
 ```
+
+### To these inputs
