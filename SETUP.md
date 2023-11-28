@@ -38,7 +38,7 @@ gh repo clone monkebutcool/pocketmine-server-setup
 
 ### If you're using a software like: Repl.it or Glitch put this URL ↓↓↓
 
-```python
+```git
 https://github.com/monkebutcool/pocketmine-server-setup
 ```
 
